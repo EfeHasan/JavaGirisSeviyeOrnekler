@@ -1,0 +1,1 @@
+Bu depo, Java programlamaya yeni başlayanlara elleriyle projeler üzerinden pratik yapma fırsatı sunmayı amaçlamaktadır. Öğrenci, bireysel öğrenen veya başka bir programlama dilinden geçiş yapan herkes için, bu projeler temel Java kavramlarını pekiştirmenize ve pratik beceriler kazanmanıza yardımcı olacak şekilde tasarlanmıştır.
